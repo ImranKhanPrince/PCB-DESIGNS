@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CON2_USB_N Pin=D5-2
+Change Component Description : Designator=J3 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
+Change Component Description : Designator=J4 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
