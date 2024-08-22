@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=+3V3_FTDI Pin=C10-2
-Change Net Color : Old Net Color=Navy New Net Color=Default
-Added Pin To Net: NetName=NetC10_2 Pin=C10-2
-Added Pin To Net: NetName=NetC10_2 Pin=R8-2
-Added Pin To Net: NetName=NetC10_2 Pin=U3-11
-Added Net: Name=NetC10_2
