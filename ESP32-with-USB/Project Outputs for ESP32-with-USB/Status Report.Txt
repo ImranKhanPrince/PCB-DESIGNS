@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:50:20 PM On 02-Sep-24
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Prototype] of Project [ESP32-with-USB.PrjPcb]
+   Generated File[Bill of Materials-ESP32-with-USB(Prototype).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:50:22 PM On 02-Sep-24

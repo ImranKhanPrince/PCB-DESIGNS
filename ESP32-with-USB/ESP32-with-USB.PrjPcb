@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Prototype
 
 [Preferences]
 PrefsVaultGUID=
@@ -118,7 +119,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PVQRWGMI
 
 [Document5]
-DocumentPath=ESP32-with-USB.OutJob
+DocumentPath=Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,6 +134,20 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=7723AF04-DB3F-486D-8C6E-36C7F268C202
+Description=Prototype
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=R26|UniqueId=\VTAGNJXV|Kind=1|AlternatePart= 
+Variation2=Designator=R23|UniqueId=\KJMWQIXM|Kind=1|AlternatePart= 
+Variation3=Designator=C17|UniqueId=\SXLJVKCO|Kind=1|AlternatePart= 
+Variation4=Designator=C10|UniqueId=\DAABSMHZ|Kind=1|AlternatePart= 
+Variation5=Designator=R4|UniqueId=\MKOOEGKR|Kind=1|AlternatePart= 
+Variation6=Designator=R9|UniqueId=\BAWTIOHD|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP32-with-USB\Design Rule Check - ESP32-with-USB_V0.html
