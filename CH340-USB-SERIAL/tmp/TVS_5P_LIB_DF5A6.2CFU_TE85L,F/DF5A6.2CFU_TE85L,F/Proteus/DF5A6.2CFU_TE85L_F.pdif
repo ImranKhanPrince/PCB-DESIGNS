@@ -1,0 +1,115 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DF5A6.2CFU_TE85L_F"
+   (description "Toshiba DF5A6.2CFU(TE85L,F Quad ESD Protection Diode, 5-Pin USV")
+   (family "DIO")
+   (package "USV")
+   (attribute "Datasheet Link" "http://toshiba.semicon-storage.com/info/docget.jsp?did=352&prodName=DF5A6.2CFU")
+   (attribute "Manufacturer_Name" "Toshiba")
+   (attribute "Manufacturer_Part_Number" "DF5A6.2CFU(TE85L,F")
+   (attribute "Mouser Part Number" "757-DF5A62CFUTE85LF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/DF5A6.2CFUTE85LF?qs=vPP9GyyTAo1ZxDdyYGL6iw%3D%3D")
+   (attribute "Arrow Part Number" "DF5A6.2CFU(TE85L,F")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/df5a6.2cfu-te85lf/toshiba")
+   (gate
+    (symbol "DF5A6.2CFU_TE85L_F")
+    (pin "K1" 1 PS)
+    (pin "A" 2 PS)
+    (pin "K2" 3 PS)
+    (pin "K3" 4 PS)
+    (pin "K4" 5 PS)
+   )
+  )
+  (symbol "DF5A6.2CFU_TE85L_F"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "USV"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1 0.625)
+      (pt 1 0.625)
+      (pt 1 -0.625)
+      (pt -1 -0.625)
+      (pt -1 0.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -0.7 -1.58) (pt -0.636 -1.58)
+     )
+    )
+   )
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1 0.625)
+      (pt -1 -0.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1 0.625)
+      (pt 1 -0.625))))
+   (leg 1 (pt -0.65 -0.95) (padstack 0))
+   (leg 2 (pt 0 -0.95) (padstack 0))
+   (leg 3 (pt 0.65 -0.95) (padstack 0))
+   (leg 4 (pt 0.65 0.95) (padstack 0))
+   (leg 5 (pt -0.65 0.95) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.4 0.8 0 0 90))
+   )
+   (model "DF5A6.2CFU_TE85L,F.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

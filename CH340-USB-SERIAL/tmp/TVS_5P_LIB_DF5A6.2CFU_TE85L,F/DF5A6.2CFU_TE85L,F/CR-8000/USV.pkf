@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "USV"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "USV")
+        (spec "default")
+    )
+)

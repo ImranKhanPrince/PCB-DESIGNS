@@ -1,0 +1,18 @@
+.DF5A6.2CFU_TE85L_F :1 ;Toshiba DF5A6.2CFU(TE85L,F Quad ESD Protection Diode, 5-Pin USV
+USV
+*STM D
+*NGS
+*PLB 1="K1" 2="A" 3="K2" 4="K3" 5="K4"
+*MXP 5
+*DFN DF5A6.2CFU_TE85L_F
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (DF5A6.2CFU(TE85L,F)
+~!Mouser Part Number (757-DF5A62CFUTE85LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/DF5A6.2CFUTE85LF?qs=vPP9GyyTAo1ZxDdyYGL6iw%3D%3D)
+~!Arrow Part Number (DF5A6.2CFU(TE85L,F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/df5a6.2cfu-te85lf/toshiba)
+~!Link Datasheet (http://toshiba.semicon-storage.com/info/docget.jsp?did=352&prodName=DF5A6.2CFU)
+~!Height (-)
+~!3D_Model (DF5A6.2CFU_TE85L,F)
+DF5A6.2CFU_TE85L_F
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

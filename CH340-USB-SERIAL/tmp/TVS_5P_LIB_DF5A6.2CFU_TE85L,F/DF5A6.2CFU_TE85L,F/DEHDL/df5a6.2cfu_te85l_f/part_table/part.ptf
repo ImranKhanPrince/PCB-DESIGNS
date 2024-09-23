@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DF5A6.2CFU_TE85L_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Toshiba", "DF5A6.2CFU(TE85L,F" (!) = "", "USV", "Other", "757-DF5A62CFUTE85LF", "https://www.mouser.co.uk/ProductDetail/Toshiba/DF5A6.2CFUTE85LF?qs=vPP9GyyTAo1ZxDdyYGL6iw%3D%3D", "DF5A6.2CFU(TE85L,F", "https://www.arrow.com/en/products/df5a6.2cfu-te85lf/toshiba", "Toshiba DF5A6.2CFU(TE85L,F Quad ESD Protection Diode, 5-Pin USV", "http://toshiba.semicon-storage.com/info/docget.jsp?did=352&prodName=DF5A6.2CFU"
+END_PART
+
+END.

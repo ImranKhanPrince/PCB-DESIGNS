@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=DF5A6.2CFU(TE85L,F
+PartCategory=Diode
+PackageCategory=Other
+PinCount=5
+Version=1.1
+Released=2019-11-25 10:04:08
+Downloaded=2024-09-19 09:55:05
+3D=Y
