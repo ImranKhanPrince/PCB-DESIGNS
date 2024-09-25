@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ch340-usb-serial_V1.1.PcbDoc]
+   Generated File[ch340-usb-serial_V1.1-RoundHoles.TXT]
+   Generated File[ch340-usb-serial_V1.1-SlotHoles.TXT]
+   Generated File[ch340-usb-serial_V1.1.LDP]
+   Generated File[ch340-usb-serial_V1.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 4:26:05 PM On 25-Sep-24

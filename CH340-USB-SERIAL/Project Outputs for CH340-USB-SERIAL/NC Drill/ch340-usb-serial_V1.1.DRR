@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ch340-usb-serial_V1.1.PcbDoc   25-Sep-24  4:26:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ch340-usb-serial_V1.1-RoundHoles.TXT
+ASCII SlotHoles File : ch340-usb-serial_V1.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             3         PTH        0.82inch (20.71mm)
+T2      28mil (0.711mm)                                           Round             24        PTH        7.13inch (181.06mm)
+T3      30mil (0.75mm)                                            Slot              2         PTH        1.07inch (27.25mm)
+T4      43mil (1.1mm)                                             Round             11        PTH        1.55inch (39.33mm)
+T5      47mil (1.2mm)                                             Round             5         PTH        0.40inch (10.16mm)
+T6      39mil (1mm)                                               Round             2         NPTH       0.17inch (4.40mm)
+T7      49mil (1.25mm)                                            Round             2         NPTH       0.18inch (4.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              49
+
+Total Processing Time (hh:mm:ss) : 00:00:00
