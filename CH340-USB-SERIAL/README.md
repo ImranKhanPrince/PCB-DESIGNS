@@ -1,16 +1,10 @@
-# PCB Design: [ESP32-with-USB]
+# PCB Design: [CH340C-USB-SERIAL]
 
 ## Overview
-This is a modified Dev board of ESP32-S3-Mini. This board was done for learning purpose. It has used a FTDI chip insted of typical chxx chips
-## Features
-- **Design Type**: [Single/Double/Multilayer PCB]
-- **Microcontroller/IC**: [Name of the MCU/IC used]
-- **Power Supply**: [Input voltage range, e.g., 5V, 12V, etc.]
-- **Board Dimensions**: [e.g., 50mm x 70mm]
-- **Additional Components**: [Any important sensors, modules, or other ICs used]
+This is a USB <-> UART Converter that uses Ch340C chip. This chip can work on Both 5V and 3.3V. This board is designed to use as a USB-UART converter and ESP-32 Programmar that will upload ESP32 Codes with UART bootloader via the ESP-PROG style connector. 
 
 ## Schematic
-[Download The Schematic](./Docs/ESP32-with-USB.pdf)  
+[Download The Schematic](./Docs/schematics.pdf)  
 
 ## 3D View
 ![3D Render](./Docs/images/top3d.png)  
